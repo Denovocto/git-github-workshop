@@ -1,0 +1,3 @@
+[submodule "git-presentation-example-repo"]
+	path = git-presentation-example-repo
+	url = https://github.com/Denovocto/git-presentation-example-repo
